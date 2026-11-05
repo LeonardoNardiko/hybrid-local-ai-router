@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Hybrid Local AI Router in engineering workstations or research, please cite using this metadata."
+title: "Hybrid Local AI Router: CAD-Safe VRAM Orchestrator for Engineering Workstations"
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+url: "https://tecnopro.me"
+repository-code: "https://github.com/LeonardoNardiko/hybrid-local-ai-router"
+authors:
+  - family-names: "de Lima Junior"
+    given-names: "Leonardo"
+    alias: "Leonardo Nardiko"
+    website: "https://nardiko.me"
+keywords:
+  - ollama
+  - local-llm
+  - cad
+  - vram-management
+  - opsec
+  - industrial-ai
